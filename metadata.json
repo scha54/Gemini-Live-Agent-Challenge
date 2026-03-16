@@ -1,0 +1,5 @@
+{
+  "name": "Chart Explainer Agent",
+  "description": "User uploads chart or screenshot.\n\nAI:\n\nexplains data\n\nnarrates insights\n\ngenerates visual annotations.",
+  "requestFramePermissions": ["microphone"]
+}
